@@ -128,4 +128,4 @@ const navLinks = [
 
 ## 📫 Contact
 
-Your Name - sumit.does.code@gmail.com
+My Email - sumit.does.code@gmail.com
